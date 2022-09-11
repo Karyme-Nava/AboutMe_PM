@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Karyme Jocelyn Nava Osorio</string>
+    <string name="yellow_start">Yellow start</string>
+    <string name="bio">Hola, me llamo Karyme, tengo 21 años.\n\n
+    Estudio Ingeniería en Sistemas Computacionales en el
+    Instituto Tecnológico Superior del Sur de Guanajuato.\n\n
+    Me gustan las materias relacionadas con programación y
+    matemáticas.\n\n
+    Además, participo en el cub de programación competitiva del
+    ITSUR, me gusta participar en concursos de programación y
+    aprender temas nuevos.\n\n
+    Espero seguir mejorando en las cosas que me gustan y
+    aprendiendo más cosas nuevas.\n</string>
+</resources>
